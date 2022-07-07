@@ -1,0 +1,22 @@
+<div class="container">
+
+  <h1>Running Tracker</h1>
+
+  <div class="form-group">
+    <label>Please drag and drop way points to calculate distance.</label>
+  </div>
+
+  <agm-map [latitude]="latitude" [longitude]="longitude" [zoom]="zoom" >
+    <agm-marker [latitude]="latitude" [longitude]="longitude" [markerDraggable]="true"
+                (dragEnd)="markerDragEnd($event)"></agm-marker>
+    <agm-polyline  [strokeColor]="'#2196f3'">
+      <ng-container *ngFor="let i of selectedLatLngs">
+        <agm-polyline-point  [latitude]="i.lat" [longitude]="i.lng">
+        </agm-polyline-point>
+      </ng-container>
+    </agm-polyline>
+  </agm-map>
+
+  <h5>Address: {{address}}</h5>
+  <div style="color: #2196f3">Total Distance Traveled: <b style="color:green">{{distanceTraveled.toFixed(2)}}</b> meters</div>
+</div>
