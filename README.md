@@ -1,4 +1,4 @@
-﻿![](Aspose.Words.03f71d8d-0ebc-477c-bbbc-ed47ff76a150.001.jpeg)
+﻿![](running-tracker.gif)
 
 **Running Tracker!**
 
