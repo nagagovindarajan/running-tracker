@@ -26,7 +26,7 @@ import {AgmCoreModule} from '@agm/core';
     HttpClientModule,
     GooglePlaceModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyAbPxnZ-ysOZ8O4LXVg8sd70cnm-gWmD7g',
+      apiKey: '<google-map-api-key>',
       libraries: ['places']
     })
   ],
