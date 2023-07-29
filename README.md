@@ -1,6 +1,6 @@
 ﻿![](Aspose.Words.03f71d8d-0ebc-477c-bbbc-ed47ff76a150.001.jpeg)
 
-**Running Tracker![](Aspose.Words.03f71d8d-0ebc-477c-bbbc-ed47ff76a150.002.png)**
+**Running Tracker!**
 
 07\.07.2022
 
@@ -8,11 +8,8 @@
 
 Nagarajan Govindarajan
 
-Infosys
+Singapore
 
-571C Woodlands Avenue 1 Singapore, 733571
-
-5![](Aspose.Words.03f71d8d-0ebc-477c-bbbc-ed47ff76a150.002.png)
 
 **Overview**
 
